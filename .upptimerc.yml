@@ -12,6 +12,8 @@ sites:
     url: https://sanderdatema.nl
   - name: Healthcareonstage Planning
     url: https://oud.healthcareonstage.com
+  - name: Healthcare on Stage CRM
+    url: https://crm.healthcareonstage.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
