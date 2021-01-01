@@ -58,19 +58,19 @@
     "url": "https://oud.healthcareonstage.com",
     "icon": "https://favicons.githubusercontent.com/oud.healthcareonstage.com",
     "slug": "healthcareonstage-planning",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1343,
-    "timeDay": 1682,
-    "timeWeek": 1343,
-    "timeMonth": 1343,
-    "timeYear": 1343,
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 2618,
+    "timeDay": 4699,
+    "timeWeek": 2618,
+    "timeMonth": 2618,
+    "timeYear": 2618,
     "dailyMinutesDown": {
-      "2021-01-01": 1
+      "2021-01-01": 15
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://crm.healthcareonstage.com",
     "icon": "https://favicons.githubusercontent.com/crm.healthcareonstage.com",
     "slug": "healthcare-on-stage-crm",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1273,
-    "timeDay": 1528,
-    "timeWeek": 1273,
-    "timeMonth": 1273,
-    "timeYear": 1273,
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
+    "time": 1212,
+    "timeDay": 1249,
+    "timeWeek": 1212,
+    "timeMonth": 1212,
+    "timeYear": 1212,
     "dailyMinutesDown": {
-      "2021-01-01": 0
+      "2021-01-01": 15
     }
   }
 ]
