@@ -33,7 +33,7 @@
     "time": 1028,
     "timeDay": 801,
     "timeWeek": 948,
-    "timeMonth": 961,
+    "timeMonth": 888,
     "timeYear": 1028,
     "dailyMinutesDown": {
       "2021-02-10": 359
@@ -64,9 +64,9 @@
     "url": "https://curateddistractions.com",
     "icon": "https://favicons.githubusercontent.com/curateddistractions.com",
     "slug": "curated-distractions",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +75,9 @@
     "timeWeek": 463,
     "timeMonth": 433,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-05": 0
+    }
   },
   {
     "name": "Healthcare on Stage CRM",
@@ -83,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/crm.healthcareonstage.com",
     "slug": "healthcare-on-stage-crm",
     "status": "down",
-    "uptime": "74.71%",
-    "uptimeDay": "82.82%",
-    "uptimeWeek": "95.17%",
+    "uptime": "74.38%",
+    "uptimeDay": "64.53%",
+    "uptimeWeek": "91.14%",
     "uptimeMonth": "52.79%",
-    "uptimeYear": "74.71%",
+    "uptimeYear": "74.38%",
     "time": 3367,
     "timeDay": 8633,
     "timeWeek": 8068,
     "timeMonth": 4143,
     "timeYear": 3367,
     "dailyMinutesDown": {
-      "2021-03-05": 75,
+      "2021-03-05": 482,
       "2021-03-04": 212,
       "2021-02-28": 126,
       "2021-02-27": 73,
