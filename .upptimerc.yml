@@ -6,8 +6,6 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Healthcare on Stage
     url: https://healthcareonstage.com
-  - name: Thuis Nalezen
-    url: https://thuisnalezen.nl
   - name: Sander Datema
     url: https://sanderdatema.nl
   - name: Curated Distractions
