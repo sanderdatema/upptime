@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/healthcareonstage.com",
     "slug": "healthcare-on-stage",
     "status": "up",
-    "uptime": "87.68%",
+    "uptime": "87.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "85.54%",
     "time": 868,
-    "timeDay": 413,
-    "timeWeek": 431,
-    "timeMonth": 474,
+    "timeDay": 583,
+    "timeWeek": 421,
+    "timeMonth": 476,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2022-02-05": 106,
@@ -84,16 +84,16 @@
     "icon": "https://favicons.githubusercontent.com/sanderdatema.nl",
     "slug": "sander-datema",
     "status": "up",
-    "uptime": "95.88%",
+    "uptime": "95.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.22%",
-    "time": 882,
-    "timeDay": 1128,
-    "timeWeek": 992,
-    "timeMonth": 981,
-    "timeYear": 881,
+    "time": 883,
+    "timeDay": 1148,
+    "timeWeek": 1056,
+    "timeMonth": 987,
+    "timeYear": 882,
     "dailyMinutesDown": {
       "2022-02-05": 47,
       "2022-01-22": 1298,
@@ -132,12 +132,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.76%",
-    "time": 659,
-    "timeDay": 1149,
-    "timeWeek": 1058,
-    "timeMonth": 1140,
-    "timeYear": 664,
+    "uptimeYear": "98.03%",
+    "time": 660,
+    "timeDay": 1098,
+    "timeWeek": 1097,
+    "timeMonth": 1135,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2022-01-23": 47,
       "2022-01-22": 463,
@@ -153,8 +153,7 @@
       "2021-11-01": 825,
       "2021-10-31": 23,
       "2021-09-05": 22,
-      "2021-03-08": 865,
-      "2021-03-07": 1440
+      "2021-03-08": 865
     }
   },
   {
@@ -163,7 +162,7 @@
     "icon": "https://favicons.githubusercontent.com/crm.healthcareonstage.com",
     "slug": "healthcare-on-stage-crm",
     "status": "down",
-    "uptime": "51.25%",
+    "uptime": "51.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -174,7 +173,8 @@
     "timeMonth": 0,
     "timeYear": 1475,
     "dailyMinutesDown": {
-      "2022-03-06": 6,
+      "2022-03-07": 6,
+      "2022-03-06": 1440,
       "2022-03-05": 1440,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
@@ -378,8 +378,7 @@
       "2021-03-11": 1440,
       "2021-03-10": 1440,
       "2021-03-09": 1440,
-      "2021-03-08": 1440,
-      "2021-03-07": 1440
+      "2021-03-08": 1440
     }
   }
 ]
