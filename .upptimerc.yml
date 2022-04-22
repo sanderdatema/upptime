@@ -4,14 +4,14 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Healthcare on Stage
-    url: https://healthcareonstage.com
   - name: Sander Datema
     url: https://sanderdatema.nl
   - name: Curated Distractions
     url: https://curateddistractions.com
-  - name: Healthcare on Stage CRM
-    url: https://crm.healthcareonstage.com
+  - name: Naakt Presenteren
+    url: https://naaktpresenteren.nl
+  - name: Return to Sander
+    url: https://returntosander.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
