@@ -1,7 +1,7 @@
 url: https://sanderdatema.nl
-status: up
-code: 200
-responseTime: 676
-lastUpdated: 2022-06-22T23:03:21.449Z
+status: down
+code: 502
+responseTime: 884
+lastUpdated: 2022-06-23T22:02:52.568Z
 startTime: Wed Dec 30 2020 15:35:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
