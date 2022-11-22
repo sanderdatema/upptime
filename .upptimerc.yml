@@ -17,7 +17,7 @@ sites:
   - name: Stats
     url: https://stats.returntosander.net
   - name: Minio
-    url: https://cdn.returntosander.net
+    url: https://console.returntosander.net
   - name: Gitea
     url: https://git.returntosander.net
 
