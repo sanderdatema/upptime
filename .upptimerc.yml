@@ -12,6 +12,14 @@ sites:
     url: https://naaktpresenteren.nl
   - name: Return to Sander
     url: https://returntosander.net
+  - name: Mastodon
+    url: https://mastodon.returntosander.net
+  - name: Stats
+    url: https://stats.returntosander.net
+  - name: Minio
+    url: https://cdn.returntosander.net
+  - name: Gitea
+    url: https://git.returntosander.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
