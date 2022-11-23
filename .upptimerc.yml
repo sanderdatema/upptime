@@ -12,8 +12,8 @@ sites:
     url: https://naaktpresenteren.nl
   - name: Return to Sander
     url: https://returntosander.net
-  - name: Mastodon
-    url: https://mastodon.returntosander.net
+  - name: Pleroma
+    url: https://pleroma.returntosander.net
   - name: Stats
     url: https://stats.returntosander.net
   - name: Minio
