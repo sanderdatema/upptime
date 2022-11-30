@@ -12,12 +12,12 @@ sites:
     url: https://naaktpresenteren.nl
   - name: Return to Sander
     url: https://returntosander.net
-  - name: Pleroma
-    url: https://pleroma.returntosander.net
+  - name: Mastodon
+    url: https://social.returntosander.net
   - name: Stats
     url: https://stats.returntosander.net
   - name: Minio
-    url: https://console.returntosander.net
+    url: https://cdn.returntosander.net
   - name: Gitea
     url: https://git.returntosander.net
 
