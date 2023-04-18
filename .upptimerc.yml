@@ -4,16 +4,16 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Sander Datema
-    url: https://sanderdatema.nl
+#  - name: Sander Datema
+#    url: https://sanderdatema.nl
   - name: Curated Distractions
     url: https://curateddistractions.com
-  - name: Naakt Presenteren
-    url: https://naaktpresenteren.nl
+#  - name: Naakt Presenteren
+#    url: https://naaktpresenteren.nl
   - name: Return to Sander
     url: https://returntosander.net
-  - name: Mastodon
-    url: https://social.returntosander.net
+#  - name: Mastodon
+#    url: https://social.returntosander.net
   - name: Stats
     url: https://stats.returntosander.net
   - name: Minio
