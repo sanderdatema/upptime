@@ -17,9 +17,9 @@ sites:
   - name: Stats
     url: https://stats.returntosander.net
   - name: Minio
-    url: https://cdn.returntosander.net
+    url: https://cdn.returntosander.net/dropshare
   - name: Gitea
-    url: https://git.returntosander.net
+    url: https://git.passengerflying.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
