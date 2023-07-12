@@ -12,14 +12,18 @@ sites:
 #    url: https://naaktpresenteren.nl
   - name: Return to Sander
     url: https://returntosander.net
-#  - name: Mastodon
-#    url: https://social.returntosander.net
+  - name: Passenger Flying
+    url: https://passengerflying.com
   - name: Stats
     url: https://stats.returntosander.net
   - name: Minio
     url: https://cdn.returntosander.net/dropshare
-  - name: Gitea
+  - name: Passenger Flying Git
     url: https://git.passengerflying.com
+  - name: Passenger Flying comments
+    url: https://comments.passengerflying.com
+  - name: Return to Sander links
+    url: https://link.returntosander.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
