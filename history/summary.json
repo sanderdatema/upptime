@@ -239,9 +239,9 @@
     "slug": "minio",
     "status": "up",
     "uptime": "3.42%",
-    "uptimeDay": "0.43%",
+    "uptimeDay": "0.44%",
     "uptimeWeek": "0.06%",
-    "uptimeMonth": "1.39%",
+    "uptimeMonth": "1.40%",
     "uptimeYear": "3.42%",
     "time": 601,
     "timeDay": 547,
@@ -501,18 +501,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/comments.passengerflying.com.ico",
     "slug": "passenger-flying-comments",
     "status": "down",
-    "uptime": "6.74%",
-    "uptimeDay": "6.74%",
-    "uptimeWeek": "6.74%",
-    "uptimeMonth": "6.74%",
-    "uptimeYear": "6.74%",
+    "uptime": "5.91%",
+    "uptimeDay": "5.91%",
+    "uptimeWeek": "5.91%",
+    "uptimeMonth": "5.91%",
+    "uptimeYear": "5.91%",
     "time": 606,
     "timeDay": 606,
     "timeWeek": 606,
     "timeMonth": 606,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2023-07-12": 0
+      "2023-07-12": 1
     }
   },
   {
