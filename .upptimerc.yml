@@ -6,8 +6,6 @@ repo: upptime # Your GitHub repository name
 sites:
 #  - name: Sander Datema
 #    url: https://sanderdatema.nl
-  - name: Curated Distractions
-    url: https://curateddistractions.com
 #  - name: Naakt Presenteren
 #    url: https://naaktpresenteren.nl
   - name: Return to Sander
