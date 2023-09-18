@@ -58,19 +58,19 @@
     "url": "https://passengerflying.com",
     "icon": "https://icons.duckduckgo.com/ip3/passengerflying.com.ico",
     "slug": "passenger-flying",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 203,
-    "timeWeek": 133,
-    "timeMonth": 125,
-    "timeYear": 124,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 130,
+    "timeDay": 314,
+    "timeWeek": 178,
+    "timeMonth": 137,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-09-18": 0
+      "2023-09-18": 12
     }
   },
   {
@@ -418,7 +418,7 @@
     "timeMonth": 548,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2023-09-18": 612,
+      "2023-09-18": 624,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
