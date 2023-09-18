@@ -386,19 +386,19 @@
     "url": "https://git.passengerflying.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.passengerflying.com.ico",
     "slug": "passenger-flying-git",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 559,
-    "timeDay": 707,
-    "timeWeek": 566,
-    "timeMonth": 570,
-    "timeYear": 559,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 556,
+    "timeDay": 624,
+    "timeWeek": 547,
+    "timeMonth": 564,
+    "timeYear": 556,
     "dailyMinutesDown": {
-      "2023-09-18": 10
+      "2023-09-18": 0
     }
   },
   {
@@ -418,7 +418,7 @@
     "timeMonth": 548,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2023-09-18": 868,
+      "2023-09-18": 876,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
