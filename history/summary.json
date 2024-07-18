@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.28%",
+    "uptimeYear": "96.30%",
     "time": 811,
-    "timeDay": 938,
-    "timeWeek": 877,
-    "timeMonth": 816,
-    "timeYear": 810,
+    "timeDay": 888,
+    "timeWeek": 880,
+    "timeMonth": 815,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2024-04-03": 69,
       "2024-03-26": 1287,
@@ -34,8 +34,7 @@
       "2024-02-25": 220,
       "2024-01-09": 76,
       "2023-10-15": 185,
-      "2023-10-07": 76,
-      "2023-07-19": 1259
+      "2023-10-07": 76
     }
   },
   {
@@ -49,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 667,
-    "timeDay": 838,
-    "timeWeek": 923,
-    "timeMonth": 855,
-    "timeYear": 676,
+    "time": 668,
+    "timeDay": 988,
+    "timeWeek": 926,
+    "timeMonth": 864,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2024-04-03": 53,
       "2024-03-15": 286,
@@ -75,11 +74,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.63%",
-    "time": 574,
-    "timeDay": 375,
-    "timeWeek": 461,
-    "timeMonth": 451,
+    "uptimeYear": "95.65%",
+    "time": 573,
+    "timeDay": 400,
+    "timeWeek": 458,
+    "timeMonth": 452,
     "timeYear": 543,
     "dailyMinutesDown": {
       "2024-04-03": 69,
@@ -103,8 +102,7 @@
       "2024-01-22": 874,
       "2024-01-09": 68,
       "2023-10-15": 185,
-      "2023-10-07": 84,
-      "2023-07-19": 1259
+      "2023-10-07": 84
     }
   },
   {
@@ -118,10 +116,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "96.82%",
-    "time": 667,
-    "timeDay": 420,
-    "timeWeek": 390,
-    "timeMonth": 606,
+    "time": 666,
+    "timeDay": 370,
+    "timeWeek": 391,
+    "timeMonth": 597,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2024-07-05": 24,
@@ -155,17 +153,16 @@
     "slug": "passenger-flying-git",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.87%",
-    "time": 522,
-    "timeDay": 997,
-    "timeWeek": 1015,
-    "timeMonth": 713,
-    "timeYear": 523,
+    "time": 523,
+    "timeDay": 1001,
+    "timeWeek": 1022,
+    "timeMonth": 724,
+    "timeYear": 524,
     "dailyMinutesDown": {
-      "2024-07-17": 6,
       "2024-06-28": 30,
       "2024-03-15": 257,
       "2024-02-25": 213,
@@ -183,13 +180,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 420,
-    "timeDay": 277,
-    "timeWeek": 303,
-    "timeMonth": 306,
+    "time": 419,
+    "timeDay": 274,
+    "timeWeek": 302,
+    "timeMonth": 300,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2024-07-17": 1361,
+      "2024-07-18": 7,
+      "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -552,8 +550,7 @@
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
-      "2023-07-20": 1440,
-      "2023-07-19": 1440
+      "2023-07-20": 1440
     }
   },
   {
@@ -566,12 +563,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.46%",
-    "time": 1155,
-    "timeDay": 1055,
-    "timeWeek": 1193,
-    "timeMonth": 1162,
-    "timeYear": 1171,
+    "uptimeYear": "95.47%",
+    "time": 1154,
+    "timeDay": 1119,
+    "timeWeek": 1204,
+    "timeMonth": 1164,
+    "timeYear": 1173,
     "dailyMinutesDown": {
       "2024-04-03": 69,
       "2024-03-26": 1287,
@@ -595,8 +592,7 @@
       "2024-01-08": 1440,
       "2024-01-07": 664,
       "2023-10-15": 185,
-      "2023-10-07": 76,
-      "2023-07-19": 1259
+      "2023-10-07": 76
     }
   }
 ]
