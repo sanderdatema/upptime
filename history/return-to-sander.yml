@@ -1,7 +1,7 @@
 url: https://returntosander.net
-status: up
-code: 200
-responseTime: 602
-lastUpdated: 2024-07-30T21:35:35.625Z
+status: down
+code: 502
+responseTime: 409
+lastUpdated: 2024-07-30T22:50:58.836Z
 startTime: 2022-04-22T09:44:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
