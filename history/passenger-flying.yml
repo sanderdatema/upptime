@@ -1,7 +1,7 @@
 url: https://passengerflying.com
-status: up
-code: 200
-responseTime: 579
-lastUpdated: 2024-08-04T23:04:23.519Z
+status: down
+code: 503
+responseTime: 2441
+lastUpdated: 2024-08-04T23:33:39.626Z
 startTime: 2023-07-12T10:36:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
