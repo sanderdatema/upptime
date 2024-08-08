@@ -4,25 +4,23 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-#  - name: Sander Datema
-#    url: https://sanderdatema.nl
-#  - name: Naakt Presenteren
-#    url: https://naaktpresenteren.nl
+  - name: Sander Datema
+    url: https://sanderdatema.nl
   - name: Return to Sander
     url: https://returntosander.net
   - name: Passenger Flying
     url: https://passengerflying.com
   - name: Stats
     url: https://stats.returntosander.net
-  - name: Minio
-    url: https://cdn.returntosander.net/dropshare
-  - name: Passenger Flying Git
-    url: https://git.passengerflying.com
-  - name: Passenger Flying comments
-    url: https://comments.passengerflying.com
   - name: Return to Sander links
     url: https://link.returntosander.net
-
+  - name: Sander Datema links
+    url: https://link.sanderdatema.nl
+  - name: Passenger Flying links
+    url: https://link.passengerflying.com
+  - name: Return to Sander Git 
+    url: https://git.returntosander.net
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
