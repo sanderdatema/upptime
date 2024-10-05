@@ -1,7 +1,7 @@
 url: https://stats.returntosander.net
-status: up
-code: 307
-responseTime: 788
-lastUpdated: 2024-10-05T02:52:31.446Z
+status: down
+code: 502
+responseTime: 454
+lastUpdated: 2024-10-05T07:33:41.791Z
 startTime: 2022-11-22T13:05:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
