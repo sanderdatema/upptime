@@ -14,12 +14,11 @@ sites:
     url: https://stats.returntosander.net
   - name: Return to Sander links
     url: https://link.returntosander.net
-  - name: Sander Datema links
-    url: https://link.sanderdatema.nl
-  - name: Passenger Flying links
-    url: https://link.passengerflying.com
-  - name: Return to Sander Git 
+  - name: Return to Sander Git
     url: https://git.returntosander.net
+  - name: Photos
+    url: https://foto.sanderdatema.nl
+
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
