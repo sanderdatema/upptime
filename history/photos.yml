@@ -1,7 +1,7 @@
 url: https://foto.sanderdatema.nl
-status: up
-code: 200
-responseTime: 402
-lastUpdated: 2024-12-28T23:03:29.579Z
+status: down
+code: 502
+responseTime: 356
+lastUpdated: 2024-12-29T06:05:22.218Z
 startTime: 2024-12-16T13:04:20.269Z
 generator: Upptime <https://github.com/upptime/upptime>
