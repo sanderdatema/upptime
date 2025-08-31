@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanderdatema.nl.ico",
     "slug": "sander-datema",
     "status": "up",
-    "uptime": "29.09%",
+    "uptime": "29.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.79%",
     "time": 766,
-    "timeDay": 771,
-    "timeWeek": 648,
+    "timeDay": 463,
+    "timeWeek": 628,
     "timeMonth": 834,
-    "timeYear": 823,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2025-08-11": 51,
       "2025-02-12": 247,
@@ -39,12 +39,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.32%",
-    "time": 727,
-    "timeDay": 556,
+    "uptimeYear": "99.59%",
+    "time": 726,
+    "timeDay": 572,
     "timeWeek": 2077,
-    "timeMonth": 987,
-    "timeYear": 617,
+    "timeMonth": 983,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2025-07-18": 19,
       "2025-07-11": 41,
@@ -55,8 +55,7 @@
       "2024-10-05": 203,
       "2024-10-04": 24,
       "2024-09-13": 31,
-      "2024-09-10": 19,
-      "2024-08-31": 1308
+      "2024-09-10": 19
     }
   },
   {
@@ -69,12 +68,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.59%",
     "time": 732,
-    "timeDay": 648,
-    "timeWeek": 564,
-    "timeMonth": 585,
-    "timeYear": 611,
+    "timeDay": 647,
+    "timeWeek": 575,
+    "timeMonth": 583,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2025-07-18": 19,
       "2025-07-11": 41,
@@ -85,8 +84,7 @@
       "2024-10-05": 203,
       "2024-10-04": 24,
       "2024-09-13": 31,
-      "2024-09-10": 19,
-      "2024-08-31": 1308
+      "2024-09-10": 19
     }
   },
   {
@@ -99,12 +97,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.64%",
     "time": 600,
-    "timeDay": 595,
-    "timeWeek": 1006,
-    "timeMonth": 838,
-    "timeYear": 591,
+    "timeDay": 876,
+    "timeWeek": 1036,
+    "timeMonth": 832,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2025-08-26": 22,
       "2025-07-18": 19,
@@ -116,8 +114,7 @@
       "2024-10-05": 204,
       "2024-10-04": 24,
       "2024-09-10": 19,
-      "2024-09-09": 16,
-      "2024-08-31": 1308
+      "2024-09-09": 16
     }
   },
   {
@@ -130,12 +127,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.78%",
-    "time": 913,
-    "timeDay": 671,
-    "timeWeek": 816,
-    "timeMonth": 863,
-    "timeYear": 760,
+    "uptimeYear": "99.06%",
+    "time": 912,
+    "timeDay": 758,
+    "timeWeek": 806,
+    "timeMonth": 852,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2025-07-18": 19,
       "2025-07-11": 41,
@@ -150,8 +147,7 @@
       "2024-09-13": 31,
       "2024-09-10": 19,
       "2024-09-03": 1190,
-      "2024-09-02": 258,
-      "2024-08-31": 1308
+      "2024-09-02": 258
     }
   },
   {
@@ -160,16 +156,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.returntosander.net.ico",
     "slug": "return-to-sander-git",
     "status": "up",
-    "uptime": "96.89%",
+    "uptime": "96.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.49%",
     "time": 539,
-    "timeDay": 422,
-    "timeWeek": 488,
-    "timeMonth": 473,
-    "timeYear": 472,
+    "timeDay": 582,
+    "timeWeek": 511,
+    "timeMonth": 474,
+    "timeYear": 467,
     "dailyMinutesDown": {
       "2025-07-18": 19,
       "2025-07-11": 41,
@@ -181,8 +177,7 @@
       "2024-10-05": 757,
       "2024-10-04": 23,
       "2024-09-10": 19,
-      "2024-09-09": 16,
-      "2024-08-31": 1308
+      "2024-09-09": 16
     }
   },
   {
@@ -191,18 +186,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/foto.sanderdatema.nl.ico",
     "slug": "photos",
     "status": "down",
-    "uptime": "60.11%",
+    "uptime": "59.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.11%",
+    "uptimeYear": "59.87%",
     "time": 650,
-    "timeDay": 388,
-    "timeWeek": 522,
-    "timeMonth": 2002,
+    "timeDay": 517,
+    "timeWeek": 532,
+    "timeMonth": 1904,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2025-08-30": 9,
+      "2025-08-31": 11,
+      "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
