@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanderdatema.nl.ico",
     "slug": "sander-datema",
     "status": "up",
-    "uptime": "34.86%",
+    "uptime": "34.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 808,
-    "timeDay": 560,
-    "timeWeek": 2300,
-    "timeMonth": 1119,
-    "timeYear": 858,
+    "timeDay": 686,
+    "timeWeek": 2463,
+    "timeMonth": 1124,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2025-08-11": 51,
       "2025-02-12": 247,
@@ -35,25 +35,23 @@
     "slug": "return-to-sander",
     "status": "up",
     "uptime": "93.14%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 708,
-    "timeDay": 615,
-    "timeWeek": 579,
-    "timeMonth": 535,
-    "timeYear": 609,
+    "timeDay": 768,
+    "timeWeek": 652,
+    "timeMonth": 552,
+    "timeYear": 611,
     "dailyMinutesDown": {
-      "2025-10-03": 12,
       "2025-07-18": 19,
       "2025-07-11": 41,
       "2025-06-20": 23,
       "2025-02-27": 244,
       "2025-02-02": 180,
       "2025-01-31": 51,
-      "2024-10-05": 203,
-      "2024-10-04": 24
+      "2024-10-05": 203
     }
   },
   {
@@ -68,8 +66,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 715,
-    "timeDay": 708,
-    "timeWeek": 587,
+    "timeDay": 646,
+    "timeWeek": 597,
     "timeMonth": 549,
     "timeYear": 602,
     "dailyMinutesDown": {
@@ -79,8 +77,7 @@
       "2025-02-27": 244,
       "2025-02-02": 180,
       "2025-01-31": 51,
-      "2024-10-05": 203,
-      "2024-10-04": 24
+      "2024-10-05": 203
     }
   },
   {
@@ -94,10 +91,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 612,
-    "timeDay": 567,
-    "timeWeek": 648,
-    "timeMonth": 615,
+    "time": 613,
+    "timeDay": 706,
+    "timeWeek": 645,
+    "timeMonth": 616,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2025-08-26": 22,
@@ -107,8 +104,7 @@
       "2025-02-15": 22,
       "2025-02-02": 180,
       "2025-01-31": 51,
-      "2024-10-05": 204,
-      "2024-10-04": 24
+      "2024-10-05": 204
     }
   },
   {
@@ -122,10 +118,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 887,
-    "timeDay": 1014,
-    "timeWeek": 888,
-    "timeMonth": 718,
+    "time": 886,
+    "timeDay": 835,
+    "timeWeek": 869,
+    "timeMonth": 712,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2025-07-18": 19,
@@ -134,8 +130,7 @@
       "2025-02-27": 244,
       "2025-02-02": 180,
       "2025-01-31": 51,
-      "2024-10-05": 204,
-      "2024-10-04": 23
+      "2024-10-05": 204
     }
   },
   {
@@ -144,16 +139,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.returntosander.net.ico",
     "slug": "return-to-sander-git",
     "status": "up",
-    "uptime": "97.14%",
+    "uptime": "97.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 533,
-    "timeDay": 510,
-    "timeWeek": 505,
-    "timeMonth": 464,
-    "timeYear": 469,
+    "time": 534,
+    "timeDay": 683,
+    "timeWeek": 529,
+    "timeMonth": 467,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2025-07-18": 19,
       "2025-07-11": 41,
@@ -162,8 +157,7 @@
       "2025-01-31": 51,
       "2024-12-29": 254,
       "2024-11-20": 16,
-      "2024-10-05": 757,
-      "2024-10-04": 23
+      "2024-10-05": 757
     }
   },
   {
@@ -172,18 +166,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/foto.sanderdatema.nl.ico",
     "slug": "photos",
     "status": "down",
-    "uptime": "53.03%",
+    "uptime": "52.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "53.03%",
+    "uptimeYear": "52.89%",
     "time": 631,
-    "timeDay": 530,
-    "timeWeek": 465,
-    "timeMonth": 476,
+    "timeDay": 566,
+    "timeWeek": 486,
+    "timeMonth": 470,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2025-10-03": 330,
+      "2025-10-04": 9,
+      "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
