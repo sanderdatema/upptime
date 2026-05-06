@@ -17,7 +17,7 @@ sites:
   - name: Return to Sander Git
     url: https://git.returntosander.net
   - name: Photos
-    url: https://foto.sanderdatema.nl
+    url: https://media.sanderdatema.nl
 
     
 status-website:
