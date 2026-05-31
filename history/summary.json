@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanderdatema.nl.ico",
     "slug": "sander-datema",
     "status": "up",
-    "uptime": "58.50%",
+    "uptime": "58.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
@@ -37,10 +37,10 @@
     "slug": "return-to-sander",
     "status": "down",
     "uptime": "85.14%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.73%",
+    "uptimeDay": "95.11%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "79.87%",
-    "uptimeYear": "62.60%",
+    "uptimeYear": "62.58%",
     "time": 468,
     "timeDay": 523,
     "timeWeek": 525,
@@ -192,7 +192,7 @@
       "2025-12-23": 1440,
       "2025-12-22": 671,
       "2026-05-24": 26,
-      "2026-05-31": 1
+      "2026-05-31": 70
     }
   },
   {
@@ -205,7 +205,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.21%",
+    "uptimeYear": "71.20%",
     "time": 643,
     "timeDay": 3351,
     "timeWeek": 1195,
@@ -221,7 +221,7 @@
       "2025-11-18": 167,
       "2025-12-10": 220,
       "2025-12-29": 151,
-      "2026-05-31": 475,
+      "2026-05-31": 545,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -333,16 +333,16 @@
     "url": "https://stats.returntosander.net",
     "icon": "https://icons.duckduckgo.com/ip3/stats.returntosander.net.ico",
     "slug": "stats",
-    "status": "up",
+    "status": "down",
     "uptime": "85.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "79.87%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "80.03%",
     "uptimeYear": "62.67%",
     "time": 484,
-    "timeDay": 363,
-    "timeWeek": 368,
-    "timeMonth": 366,
+    "timeDay": 319,
+    "timeWeek": 358,
+    "timeMonth": 364,
     "timeYear": 460,
     "dailyMinutesDown": {
       "2025-06-20": 23,
@@ -489,7 +489,8 @@
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 671,
-      "2026-05-24": 26
+      "2026-05-24": 26,
+      "2026-05-31": 1
     }
   },
   {
@@ -498,11 +499,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/link.returntosander.net.ico",
     "slug": "return-to-sander-links",
     "status": "down",
-    "uptime": "83.31%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.74%",
+    "uptime": "83.30%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.05%",
     "uptimeMonth": "73.97%",
-    "uptimeYear": "62.06%",
+    "uptimeYear": "62.05%",
     "time": 604,
     "timeDay": 914,
     "timeWeek": 845,
@@ -657,7 +658,7 @@
       "2025-12-22": 671,
       "2026-05-08": 412,
       "2026-05-24": 26,
-      "2026-05-31": 1
+      "2026-05-31": 70
     }
   },
   {
@@ -665,17 +666,17 @@
     "url": "https://git.returntosander.net",
     "icon": "https://icons.duckduckgo.com/ip3/git.returntosander.net.ico",
     "slug": "return-to-sander-git",
-    "status": "up",
+    "status": "down",
     "uptime": "77.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "79.95%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "80.11%",
     "uptimeYear": "62.68%",
     "time": 379,
-    "timeDay": 454,
-    "timeWeek": 373,
-    "timeMonth": 370,
-    "timeYear": 337,
+    "timeDay": 365,
+    "timeWeek": 363,
+    "timeMonth": 367,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2025-06-20": 23,
       "2025-07-11": 41,
@@ -820,7 +821,8 @@
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 671,
-      "2026-05-24": 26
+      "2026-05-24": 26,
+      "2026-05-31": 1
     }
   },
   {
@@ -829,11 +831,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.sanderdatema.nl.ico",
     "slug": "photos",
     "status": "down",
-    "uptime": "57.54%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "43.99%",
+    "uptime": "57.53%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "43.98%",
     "time": 831,
     "timeDay": 285,
     "timeWeek": 344,
@@ -1055,7 +1057,7 @@
       "2026-05-05": 24,
       "2026-05-06": 529,
       "2026-05-24": 25,
-      "2026-05-31": 0
+      "2026-05-31": 70
     }
   }
 ]
